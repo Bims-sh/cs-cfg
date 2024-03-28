@@ -8,10 +8,10 @@ You can execute the PowerShell script directly from the command line without dow
 2. Copy and paste the following command to execute the script:
 
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Bims-sh/cs-cfg/main/enable-shadows.ps1" -OutFile "enable-shadows.ps1"; .\script.ps1 -filePath "C:\Program Files (x86)\Steam\userdata\XXX\730\local\cfg\cs2_video.txt"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Bims-sh/cs-cfg/main/enable-shadows.ps1" -OutFile "enable-shadows.ps1"; .\enable-shadows.ps1 -filePath "C:\Program Files (x86)\Steam\userdata\XXX\730\local\cfg\cs2_video.txt"
 ```
 
-> **Note**: Replace `C:\\Program Files (x86)\\Steam\\userdata\\XXX\\730\\local\\cfg\\cs2_video.txt` with your video config path.
+> **Note**: Replace `C:\Program Files (x86)\Steam\userdata\XXX\730\local\cfg\cs2_video.txt` with your video config path.
 
 ---
 
