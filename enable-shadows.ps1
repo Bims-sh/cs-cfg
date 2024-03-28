@@ -5,6 +5,13 @@ param(
 # Echo GitHub link
 Write-Output "Script source: https://github.com/Bims-sh/cs-cfg/enable-shadows.ps1"
 
+# Check for read-only
+$file = Get-Item $filePath
+if ($file.IsReadOnly) {
+    Write-Host "The file is read-only. Exiting..."
+    exit
+}
+
 # Backup file
 $backupPath = $filePath + ".bak"
 Copy-Item -Path $filePath -Destination $backupPath
