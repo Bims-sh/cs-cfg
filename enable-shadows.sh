@@ -11,6 +11,12 @@ fi
 
 filePath=$1
 
+# Check for read-only
+if [ ! -w "$filePath" ]; then
+    echo "The file is read-only. Exiting..."
+    exit
+fi
+
 # Backup file
 cp "$filePath" "${filePath}.bak"
 echo "A backup has been created at ${filePath}.bak"
