@@ -14,7 +14,7 @@ if ($file.IsReadOnly) {
 
 # Backup file
 $backupPath = $filePath + ".bak"
-Copy-Item -Path $filePath -Destination $backupPath
+Copy-Item -Path $filePath -Destination $backupPath -Force
 Write-Output "A backup has been created at $backupPath"
 
 # Read file content
