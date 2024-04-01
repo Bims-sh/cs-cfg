@@ -24,7 +24,6 @@ Write-Output "A backup has been created at $backupPath"
 $content = Get-Content -Path $filePath -Raw
 
 # Edit the file content
-$newContent = $content -replace '("setting.csm_max_shadow_dist_override"\s+)"\d+"', '${1}"2048"'
 $newContent = $newContent -replace '("setting.lb_shadow_texture_width_override"\s+)"\d+"', '${1}"518"'
 $newContent = $newContent -replace '("setting.lb_shadow_texture_height_override"\s+)"\d+"', '${1}"518"'
 $newContent = $newContent -replace '("setting.lb_enable_shadow_casting"\s+)"\d+"', '${1}"1"'
