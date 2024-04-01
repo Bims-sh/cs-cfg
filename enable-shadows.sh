@@ -25,7 +25,7 @@ echo "A backup has been created at ${filePath}.bak"
 content=$(cat "$filePath")
 
 # Edit the file content
-newContent=$(echo "$newContent" | sed 's/"setting.lb_shadow_texture_width_override"[[:space:]]\+"[0-9]\+"/"setting.lb_shadow_texture_width_override"		"518"/')
+newContent=$(echo "$content" | sed 's/"setting.lb_shadow_texture_width_override"[[:space:]]\+"[0-9]\+"/"setting.lb_shadow_texture_width_override"		"518"/')
 newContent=$(echo "$newContent" | sed 's/"setting.lb_shadow_texture_height_override"[[:space:]]\+"[0-9]\+"/"setting.lb_shadow_texture_height_override"		"518"/')
 newContent=$(echo "$newContent" | sed 's/"setting.lb_enable_shadow_casting"[[:space:]]\+"[0-9]\+"/"setting.lb_enable_shadow_casting"		"1"/')
 
