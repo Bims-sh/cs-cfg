@@ -6,15 +6,15 @@ Accidentally added license now, deal with it
 | Type     |                       |
 |----------|-----------------------|
 | Keyboard | Wooting 60HE          |
-| Mouse    | Roccat Kova           |
+| Mouse    | Zowie EC2-CW          |
 | Screen   | 27" Samsung G5 @144Hz |
 
 ## Settings
 | Spec       |           |
 |------------|-----------|
-| DPI        | 800       |
-| Sens       | 1.75      |
-| eDPI       | 1400      |
+| DPI        | 400       |
+| Sens       | 1.8       |
+| eDPI       | 720       |
 | Resolution | 2560x1440 |
 
 ## Video Settings
