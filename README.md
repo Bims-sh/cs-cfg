@@ -9,6 +9,8 @@ Accidentally added license now, deal with it
 | Mouse    | Zowie EC2-CW          |
 | Screen   | 27" Samsung G5 @144Hz |
 
+**Wooting Profile**: `a8ca1d14c22aae3ab1f8c593ddf2f16cf532`
+
 ## Settings
 | Spec       |           |
 |------------|-----------|
