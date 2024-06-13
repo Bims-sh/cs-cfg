@@ -22,17 +22,16 @@ Accidentally added license now, deal with it
 ## Video Settings
 | Setting                          |                 |
 |----------------------------------|-----------------|
-| Boost Player Contrast            | Enabled         |
+| Boost Player Contrast            | Disabled        |
 | Wait for Vertical Sync           | Disabled        |
-| Multisampling Anti-Aliasing Mode | 2X MSAA         |
-| Global Shadow Quality            | Low (See below) |
+| Multisampling Anti-Aliasing Mode | 4X MSAA         |
+| Global Shadow Quality            | Low             |
+| Dynamic Shadows                  | All             |
 | Model / Texture Detail           | Low             |
-| Texture Filtering Mode           | Trilinear       |
+| Texture Filtering Mode           | Bilinear        |
 | Shader Detail                    | Low             |
 | Particle Detail                  | Low             |
 | Ambient Occlusion                | Medium          |
 | High Dynamic Range               | Performance     |
 | FidelityFX Super Resolution      | Disabled        |
 | NVIDIA Reflex Low Latency        | Disabled        |
-
-Check out [SHADOWS.md](/SHADOWS.md) to enable shadows at "Low" global shadow quality
