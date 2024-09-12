@@ -9,7 +9,11 @@ Accidentally added license now, deal with it
 | Mouse    | Zowie EC2-CW          |
 | Screen   | 27" Samsung G5 @144Hz |
 
-**Wooting Profile**: `2f7b95a814a2943137c5d2249214f2852312`
+**Wooting Profile**: `bf62fba3085713173cf9305563f1f5599a0b`
+
+**Keyboard Build**:
+![image](https://github.com/user-attachments/assets/8387d510-d801-4479-ba37-fe2e9677e723)
+
 
 ## Settings
 | Spec       |           |
