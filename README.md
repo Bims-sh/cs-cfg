@@ -19,8 +19,8 @@ Accidentally added license now, deal with it
 | Spec       |           |
 |------------|-----------|
 | DPI        | 400       |
-| Sens       | 2.3       |
-| eDPI       | 920       |
+| Sens       | 2.125     |
+| eDPI       | 850       |
 | Resolution | 2560x1440 |
 
 ## Video Settings
