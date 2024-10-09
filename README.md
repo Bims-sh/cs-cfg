@@ -27,16 +27,16 @@ Accidentally added license now, deal with it
 ## Video Settings
 | Setting                          |                 |
 |----------------------------------|-----------------|
-| Boost Player Contrast            | Disabled        |
+| Boost Player Contrast            | Enabled         |
 | Wait for Vertical Sync           | Disabled        |
-| Multisampling Anti-Aliasing Mode | 4X MSAA         |
+| Multisampling Anti-Aliasing Mode | CMAA2           |
 | Global Shadow Quality            | Low             |
 | Dynamic Shadows                  | All             |
-| Model / Texture Detail           | Low             |
-| Texture Filtering Mode           | Bilinear        |
+| Model / Texture Detail           | Medium          |
+| Texture Filtering Mode           | Anisotropic 4X  |
 | Shader Detail                    | Low             |
 | Particle Detail                  | Low             |
-| Ambient Occlusion                | Medium          |
+| Ambient Occlusion                | Disabled        |
 | High Dynamic Range               | Performance     |
 | FidelityFX Super Resolution      | Disabled        |
-| NVIDIA Reflex Low Latency        | Disabled        |
+| NVIDIA Reflex Low Latency        | Enabled         |
