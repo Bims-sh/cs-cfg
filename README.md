@@ -21,8 +21,11 @@ Accidentally added license now, deal with it
 | DPI          | 400       |
 | Sens         | 2.125     |
 | eDPI         | 850       |
-| m_yaw 0.022  | 2650x1140 |
-| m_yaw 0.0165 | 1920x1140 |
+
+| m_yaw        | Resolution |
+|--------------|------------|
+| m_yaw 0.022  | 2650x1140  |
+| m_yaw 0.0165 | 1920x1140  |
 
 ## Video Settings
 | Setting                          |                 |
