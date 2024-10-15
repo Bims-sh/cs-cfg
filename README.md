@@ -22,11 +22,6 @@ Accidentally added license now, deal with it
 | Sens         | 2.125     |
 | eDPI         | 850       |
 
-| m_yaw        | Resolution |
-|--------------|------------|
-| m_yaw 0.022  | 2650x1440  |
-| m_yaw 0.0165 | 1920x1440  |
-
 ## Video Settings
 | Setting                          |                 |
 |----------------------------------|-----------------|
