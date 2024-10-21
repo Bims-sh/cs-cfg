@@ -2,8 +2,13 @@
 
 Accidentally added license now, deal with it
 
+## Launch args
+`-nojoy -novid -console -forcenovsync -high +fps_max 0 -threads 15`
+
+> Threads should be the amount of cpu cores you have +1
+
 ## Hardware
-| Type     |                       |
+| Type     | Name                  |
 |----------|-----------------------|
 | Keyboard | Wooting 60HE          |
 | Mouse    | Zowie EC2-CW          |
@@ -14,9 +19,8 @@ Accidentally added license now, deal with it
 **Keyboard Build**:
 ![image](https://github.com/user-attachments/assets/8387d510-d801-4479-ba37-fe2e9677e723)
 
-
 ## Settings
-| Spec         |           |
+| Setting      | Value     |
 |--------------|-----------|
 | DPI          | 400       |
 | Sens         | 2.125     |
