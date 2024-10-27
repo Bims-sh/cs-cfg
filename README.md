@@ -8,11 +8,14 @@ Accidentally added license now, deal with it
 > Threads should be the amount of cpu cores you have +1
 
 ## Hardware
-| Type     | Name                  |
-|----------|-----------------------|
-| Keyboard | Wooting 60HE          |
-| Mouse    | Zowie EC2-CW          |
-| Screen   | 27" Samsung G5 @144Hz |
+| Type     | Name                       |
+|----------|----------------------------|
+| Keyboard | Wooting 60HE               |
+| Mouse    | Zowie EC2-CW               |
+| Screen   | 27" Samsung G5 @144Hz      |
+| GPU      | EVGA 3060 12GB OC          |
+| CPU      | i5 13600k (OC'd)           |
+| RAM      | 2x 32GB DDR5 (KF556C36-32) |
 
 **Wooting Profile**: `bf62fba3085713173cf9305563f1f5599a0b`
 
