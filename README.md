@@ -3,7 +3,7 @@
 Accidentally added license now, deal with it
 
 ## Launch args
-`-nojoy -novid -console -forcenovsync -high +fps_max 0 -threads 15`
+`-nojoy -novid -console -forcenovsync -exec autoexec -high +fps_max 0 -threads 15 -w 1920 -h 1440`
 
 > Threads should be the amount of cpu cores you have +1
 
