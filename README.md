@@ -13,14 +13,11 @@ Accidentally added license now, deal with it
 | Keyboard | Wooting 60HE               |
 | Mouse    | Zowie EC2-CW               |
 | Screen   | 27" Samsung G5 @144Hz      |
-| GPU      | EVGA 3060 12GB OC          |
-| CPU      | i5 13600k (OC'd)           |
+| GPU      | RTX 4070                   |
+| CPU      | i5 13600k                  |
 | RAM      | 2x 32GB DDR5 (KF556C36-32) |
 
 **Wooting Profile**: `3a1bbe9cc22ba5faff9fd928d9d0af4b93c6`
-
-**Keyboard Build**:
-![image](https://github.com/user-attachments/assets/8387d510-d801-4479-ba37-fe2e9677e723)
 
 ## Settings
 | Setting      | Value     |
