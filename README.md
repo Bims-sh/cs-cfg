@@ -1,9 +1,7 @@
 # cs-cfg
 
-Accidentally added license now, deal with it
-
 ## Launch args
-`-nojoy -novid -console -forcenovsync -exec autoexec -high +fps_max 0 -threads 15 -w 1920 -h 1440`
+`gamemoderun %command% -nojoy -novid -console -forcenovsync -exec autoexec -high +fps_max 0 -threads 15 -w 1920 -h 1440`
 
 > Threads should be the amount of cpu cores you have +1
 
@@ -12,12 +10,8 @@ Accidentally added license now, deal with it
 |----------|----------------------------|
 | Keyboard | Wooting 60HE               |
 | Mouse    | Zowie EC2-CW               |
-| Screen   | 27" Samsung G5 @144Hz      |
-| GPU      | RTX 4070                   |
-| CPU      | i5 13600k                  |
-| RAM      | 2x 32GB DDR5 (KF556C36-32) |
 
-**Wooting Profile**: `3a1bbe9cc22ba5faff9fd928d9d0af4b93c6`
+**Wooting Profile**: `81ca394262f023cf843336c1433b907348fc`
 
 ## Settings
 | Setting      | Value     |
@@ -31,7 +25,7 @@ Accidentally added license now, deal with it
 |----------------------------------|-----------------|
 | Boost Player Contrast            | Enabled         |
 | Wait for Vertical Sync           | Disabled        |
-| Multisampling Anti-Aliasing Mode | CMAA2           |
+| Multisampling Anti-Aliasing Mode | 8X MSAA         |
 | Global Shadow Quality            | Low             |
 | Dynamic Shadows                  | All             |
 | Model / Texture Detail           | Medium          |
@@ -42,3 +36,4 @@ Accidentally added license now, deal with it
 | High Dynamic Range               | Performance     |
 | FidelityFX Super Resolution      | Disabled        |
 | NVIDIA Reflex Low Latency        | Enabled         |
+
